@@ -10,4 +10,11 @@ Currently, two official plugins are available:
 
 # Currency-Convertor
 
+### Functionalities
+- convert the currency into another currency
+- having swapping between currencies
+
+##### Api Used
+[Click Here ](https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/inr.json)
+
   
